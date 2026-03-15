@@ -1,0 +1,62 @@
+╔══════════════════════════════════════════════════════════════════╗
+║        HOW TO UPLOAD THIS PROJECT TO GITHUB (ONLINE ONLY)        ║
+║              No installation needed — just a browser!            ║
+╚══════════════════════════════════════════════════════════════════╝
+
+STEP 1 — CREATE GITHUB ACCOUNT
+───────────────────────────────
+1. Open your browser → Go to: https://github.com
+2. Click "Sign Up" (top right)
+3. Enter your email address
+4. Create a password
+5. Choose a username (example: CherukuSwathi)
+6. Verify your account via email
+7. You now have a free GitHub account!
+
+STEP 2 — CREATE A NEW REPOSITORY
+──────────────────────────────────
+1. After logging in, click the "+" icon (top right corner)
+2. Click "New repository"
+3. Fill in:
+   - Repository name: gold-price-prediction
+   - Description: Gold Price Prediction using AI & ML | Pragathi Degree Womens College
+   - Visibility: Public ✅
+   - ✅ Check "Add a README file"
+4. Click "Create repository"
+5. Your repository is now live!
+
+STEP 3 — UPLOAD YOUR FILES
+────────────────────────────
+1. Inside your new repository, click "Add file" button
+2. Click "Upload files"
+3. Drag and drop ALL these files at once:
+   ✅ app.py
+   ✅ gold_model.py
+   ✅ requirements.txt
+   ✅ README.md
+   ✅ GITHUB_UPLOAD_GUIDE.txt (this file)
+4. Scroll down to "Commit changes"
+5. In the message box, type: "Added Gold Price Prediction project files"
+6. Click the green "Commit changes" button
+7. ALL your files are now live on GitHub! 🎉
+
+STEP 4 — GET YOUR GITHUB LINK
+───────────────────────────────
+Your project link will be:
+https://github.com/YourUsername/gold-price-prediction
+
+Replace "YourUsername" with the username you chose in Step 1.
+
+Example: https://github.com/CherukuSwathi/gold-price-prediction
+
+STEP 5 — SHARE THE LINK
+─────────────────────────
+Once you have your link:
+- Add it to the last slide of your presentation
+- Share it with your professor
+- Put it in your project report
+
+═══════════════════════════════════════════════════════════════════
+That's it! The entire process takes about 5 minutes online.
+No terminal, no Git commands, no installation required!
+═══════════════════════════════════════════════════════════════════
