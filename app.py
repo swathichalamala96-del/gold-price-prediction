@@ -1,16 +1,4 @@
-"""
-╔══════════════════════════════════════════════════════════════════════╗
-║          GOLD PRICE PREDICTION — STREAMLIT WEB APP                  ║
-║          Pragathi Degree Womens College  |  BSc Life Science         ║
-║          Team: Cheruku Swathi, M.Seelavathi, Shaik Saniya,           ║
-║                Syeda Shadan Sultana                                  ║
-║          Academic Year: 2025 - 2026                                  ║
-╚══════════════════════════════════════════════════════════════════════╝
 
-Models Used  : Random Forest, Decision Tree, Linear Regression
-Libraries    : scikit-learn, pandas, numpy, plotly, streamlit
-Data Source  : Yahoo Finance (via yfinance) / Kaggle
-"""
 
 import streamlit as st
 import pandas as pd
