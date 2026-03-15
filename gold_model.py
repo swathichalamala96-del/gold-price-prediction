@@ -22,29 +22,7 @@ print("   Pragathi Degree Womens College | 2025-2026")
 print("=" * 60)
 
 # ── SECTION 2: LOAD DATA ────────────────────────────────────────────────────
-# ┌─────────────────────────────────────────────────────────────────┐
-# │  OPTION A — Use real data from Yahoo Finance (recommended)      │
-# │  Uncomment the block below to use real data:                    │
-# └─────────────────────────────────────────────────────────────────┘
 
-# import yfinance as yf
-#
-# tickers = {"GLD":"GLD", "SLV":"SLV", "USO":"USO", "SPX":"^GSPC", "VIX":"^VIX", "DXY":"DX-Y.NYB"}
-# raw = {}
-# for name, ticker in tickers.items():
-#     raw[name] = yf.download(ticker, start="2019-01-01", end="2026-03-01")["Close"]
-#
-# df = pd.DataFrame(raw).dropna()
-# df["USD_INR"]  = yf.download("INR=X", start="2019-01-01", end="2026-03-01")["Close"]
-# df["EUR_USD"]  = yf.download("EURUSD=X", start="2019-01-01", end="2026-03-01")["Close"]
-# df["CPI"]      = 3.0   # static or load separately from FRED API
-# df["Rate"]     = 5.25  # static or load separately from FRED API
-# df["Month"]    = df.index.month
-# df = df.dropna()
-
-# ┌─────────────────────────────────────────────────────────────────┐
-# │  OPTION B — Synthetic data (used here for demo purposes)        │
-# └─────────────────────────────────────────────────────────────────┘
 print("\n[1/6] Generating dataset...")
 
 np.random.seed(42)
