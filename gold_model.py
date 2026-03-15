@@ -1,23 +1,3 @@
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║   GOLD PRICE PREDICTION — FULL ML NOTEBOOK                      ║
-# ║   Pragathi Degree Womens College | BSc Life Science              ║
-# ║   Team : Cheruku Swathi, M.Seelavathi, Shaik Saniya,             ║
-# ║           Syeda Shadan Sultana                                   ║
-# ║   Year  : 2025 - 2026                                            ║
-# ╚══════════════════════════════════════════════════════════════════╝
-#
-# WHAT THIS FILE DOES:
-#   1. Loads gold price data (synthetic OR real via yfinance)
-#   2. Cleans and engineers features
-#   3. Trains Random Forest, Decision Tree, Linear Regression
-#   4. Evaluates and compares all three models
-#   5. Plots all graphs
-#   6. Predicts on new input
-#   7. Saves the best model to disk
-#
-# HOW TO RUN:
-#   pip install -r requirements.txt
-#   python gold_model.py
 
 # ── SECTION 1: IMPORTS ──────────────────────────────────────────────────────
 import pandas as pd
